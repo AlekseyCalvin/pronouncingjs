@@ -37,9 +37,11 @@ var pronouncing = require('pronouncing');
 *Browser* (Web Pages)
 ---------------
 
-If you are building a website, you do not need `Node.js` or `npm`. <br>
-You use the pre-compiled "browserified" build. <br>
+If you are building a website, you do not need `Node.js` or `npm`! ... <br>
+Or maybe you do... How should I know?! But not to use `PronouncingJS`, you don't! <br>
+For `PronouncingJS` you may instead use the pre-compiled "browserified" build. <br>
 
+To get it running: <br>
 1.  **Download** [the file `pronouncing-browser.js`](https://github.com/aparrish/pronouncingjs/blob/master/build/pronouncing-browser.js) from the repository's `build/` directory.
 2.  **Place** it in your web project folder (e.g., `/js/pronouncing-browser.js`).
 3.  **Include** it in your HTML file using a `<script>` tag.
