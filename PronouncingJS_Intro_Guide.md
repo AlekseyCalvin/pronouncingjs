@@ -1,6 +1,6 @@
 
 # Pronouncing.js 
-##Intro, Tutorial, and Reference
+## Intro, Tutorial, and Reference
 
 The **Pronouncing** library, for [Python](https://github.com/aparrish/pronouncingpy) and [JavaScript](https://github.com/aparrish/pronouncingjs), is a work of [Allison Parrish](https://www.decontextualize.com/), the living legend of [auto-frankensteining](https://github.com/aparrish/shoestrings/blob/main/shoestrings-tutorial.ipynb) [poetics](https://posts.decontextualize.com/solar-powered-dawn-poems-progress-report/). <br>
 
@@ -281,7 +281,7 @@ pronouncing.search("IH1 D AH0 L$")
 ]
 ```
 
-** Comples Example: Rewriting text based on first two phones**
+**Complex Example: Rewriting text based on first two phones**
 -------------
 *This rewrites an input text using words that share the first two phones with the input words.* <br>
 
