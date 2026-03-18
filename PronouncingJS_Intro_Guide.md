@@ -105,11 +105,6 @@ Sometimes, the CMU pronouncing dictionary offers more than one pronunciation for
 For this reason, the `phonesForWord` function returns a list of possible pronunciations.  <br>
 (You'll need to come up with your own criteria for deciding which pronunciation is best for your purposes.)
 
-Pronunciations use the ARPAbet phonetic alphabet. Numbers after vowels indicate stress: <br>
-*   `1`: Primary stress <br>
-*   `2`: Secondary stress <br>
-*   `0`: Unstressed <br>
-
 ### Counting Syllables
 
 **Function:** `pronouncing.syllableCount(phones)` <br>
