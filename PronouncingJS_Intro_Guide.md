@@ -166,7 +166,7 @@ Using `let` allows you to check the phones before counting. <br>
 3
 ```
 
-On side note, many words in the CMU dictionary are polyphonetic:
+Do keep in mind that, as mentioned above, many words in the CMU dictionary are polyphonetic:
 
 ```javascript
 > let phones = pronouncing.phonesForWord("permit");
