@@ -1,6 +1,6 @@
 /**
  * TypeScript port of Verse-Python by Austin Pursley
- * This a nuanced rhyme finder based on the CMU Pronouncing dictionary
+ * Here is a nuanced rhyme finder based on the CMU Pronouncing dictionary
  * and PronouncingPy / Pronouncing.js libraries by Allison Parrish
  * @Source (Verse-Python): https://github.com/austinpursley/verse-python
  * @Source (Python Script): https://austinpursley.com/projects/verse_rhymes_and_more.html
